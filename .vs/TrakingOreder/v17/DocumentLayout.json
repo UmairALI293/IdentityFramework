@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "F:\\TrakingOreder\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DB5FBB9E-CC58-4E42-B02A-555794CC5F6E}|TrakingOreder\\TrakingOreder.csproj|f:\\trakingoreder\\trakingoreder\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB5FBB9E-CC58-4E42-B02A-555794CC5F6E}|TrakingOreder\\TrakingOreder.csproj|solutionrelative:trakingoreder\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB5FBB9E-CC58-4E42-B02A-555794CC5F6E}|TrakingOreder\\TrakingOreder.csproj|f:\\trakingoreder\\trakingoreder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB5FBB9E-CC58-4E42-B02A-555794CC5F6E}|TrakingOreder\\TrakingOreder.csproj|solutionrelative:trakingoreder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB5FBB9E-CC58-4E42-B02A-555794CC5F6E}|TrakingOreder\\TrakingOreder.csproj|f:\\trakingoreder\\trakingoreder\\models\\actionitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB5FBB9E-CC58-4E42-B02A-555794CC5F6E}|TrakingOreder\\TrakingOreder.csproj|solutionrelative:trakingoreder\\models\\actionitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DB5FBB9E-CC58-4E42-B02A-555794CC5F6E}|TrakingOreder\\TrakingOreder.csproj|f:\\trakingoreder\\trakingoreder\\models\\loadurldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5FBB9E-CC58-4E42-B02A-555794CC5F6E}|TrakingOreder\\TrakingOreder.csproj|solutionrelative:trakingoreder\\models\\loadurldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DB5FBB9E-CC58-4E42-B02A-555794CC5F6E}|TrakingOreder\\TrakingOreder.csproj|f:\\trakingoreder\\trakingoreder\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DB5FBB9E-CC58-4E42-B02A-555794CC5F6E}|TrakingOreder\\TrakingOreder.csproj|solutionrelative:trakingoreder\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DB5FBB9E-CC58-4E42-B02A-555794CC5F6E}|TrakingOreder\\TrakingOreder.csproj|f:\\trakingoreder\\trakingoreder\\models\\url.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5FBB9E-CC58-4E42-B02A-555794CC5F6E}|TrakingOreder\\TrakingOreder.csproj|solutionrelative:trakingoreder\\models\\url.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DB5FBB9E-CC58-4E42-B02A-555794CC5F6E}|TrakingOreder\\TrakingOreder.csproj|f:\\trakingoreder\\trakingoreder\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DB5FBB9E-CC58-4E42-B02A-555794CC5F6E}|TrakingOreder\\TrakingOreder.csproj|solutionrelative:trakingoreder\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB5FBB9E-CC58-4E42-B02A-555794CC5F6E}|TrakingOreder\\TrakingOreder.csproj|f:\\trakingoreder\\trakingoreder\\models\\url.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB5FBB9E-CC58-4E42-B02A-555794CC5F6E}|TrakingOreder\\TrakingOreder.csproj|solutionrelative:trakingoreder\\models\\url.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DB5FBB9E-CC58-4E42-B02A-555794CC5F6E}|TrakingOreder\\TrakingOreder.csproj|f:\\trakingoreder\\trakingoreder\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5FBB9E-CC58-4E42-B02A-555794CC5F6E}|TrakingOreder\\TrakingOreder.csproj|solutionrelative:trakingoreder\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5FBB9E-CC58-4E42-B02A-555794CC5F6E}|TrakingOreder\\TrakingOreder.csproj|f:\\trakingoreder\\trakingoreder\\models\\actionitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5FBB9E-CC58-4E42-B02A-555794CC5F6E}|TrakingOreder\\TrakingOreder.csproj|solutionrelative:trakingoreder\\models\\actionitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DB5FBB9E-CC58-4E42-B02A-555794CC5F6E}|TrakingOreder\\TrakingOreder.csproj|f:\\trakingoreder\\trakingoreder\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{DB5FBB9E-CC58-4E42-B02A-555794CC5F6E}|TrakingOreder\\TrakingOreder.csproj|solutionrelative:trakingoreder\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB5FBB9E-CC58-4E42-B02A-555794CC5F6E}|TrakingOreder\\TrakingOreder.csproj|f:\\trakingoreder\\trakingoreder\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB5FBB9E-CC58-4E42-B02A-555794CC5F6E}|TrakingOreder\\TrakingOreder.csproj|solutionrelative:trakingoreder\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DB5FBB9E-CC58-4E42-B02A-555794CC5F6E}|TrakingOreder\\TrakingOreder.csproj|f:\\trakingoreder\\trakingoreder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5FBB9E-CC58-4E42-B02A-555794CC5F6E}|TrakingOreder\\TrakingOreder.csproj|solutionrelative:trakingoreder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,19 +42,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1243,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Url.cs",
               "DocumentMoniker": "F:\\TrakingOreder\\TrakingOreder\\Models\\Url.cs",
               "RelativeDocumentMoniker": "TrakingOreder\\Models\\Url.cs",
               "ToolTip": "F:\\TrakingOreder\\TrakingOreder\\Models\\Url.cs",
               "RelativeToolTip": "TrakingOreder\\Models\\Url.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-27T06:46:16.281Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\TrakingOreder\\TrakingOreder\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TrakingOreder\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\TrakingOreder\\TrakingOreder\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TrakingOreder\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T09:09:15.879Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
@@ -69,14 +83,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "F:\\TrakingOreder\\TrakingOreder\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "TrakingOreder\\Controllers\\HomeController.cs",
-              "ToolTip": "F:\\TrakingOreder\\TrakingOreder\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "TrakingOreder\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwAcAAAAEAAAA",
+              "Title": "LoadUrlData.cs",
+              "DocumentMoniker": "F:\\TrakingOreder\\TrakingOreder\\Models\\LoadUrlData.cs",
+              "RelativeDocumentMoniker": "TrakingOreder\\Models\\LoadUrlData.cs",
+              "ToolTip": "F:\\TrakingOreder\\TrakingOreder\\Models\\LoadUrlData.cs",
+              "RelativeToolTip": "TrakingOreder\\Models\\LoadUrlData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T09:09:15.879Z",
+              "WhenOpened": "2024-06-27T11:27:33.991Z",
               "EditorCaption": ""
             },
             {
@@ -87,14 +101,14 @@
               "RelativeDocumentMoniker": "TrakingOreder\\appsettings.json",
               "ToolTip": "F:\\TrakingOreder\\TrakingOreder\\appsettings.json",
               "RelativeToolTip": "TrakingOreder\\appsettings.json",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAFAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-06-27T07:58:23.761Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\TrakingOreder\\TrakingOreder\\Program.cs",
               "RelativeDocumentMoniker": "TrakingOreder\\Program.cs",
@@ -107,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ActionItem.cs",
               "DocumentMoniker": "F:\\TrakingOreder\\TrakingOreder\\Models\\ActionItem.cs",
               "RelativeDocumentMoniker": "TrakingOreder\\Models\\ActionItem.cs",
@@ -120,41 +134,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "F:\\TrakingOreder\\TrakingOreder\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "TrakingOreder\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "F:\\TrakingOreder\\TrakingOreder\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "TrakingOreder\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-27T06:46:26.295Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "F:\\TrakingOreder\\TrakingOreder\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "TrakingOreder\\Views\\Shared\\_LoginPartial.cshtml",
               "ToolTip": "F:\\TrakingOreder\\TrakingOreder\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeToolTip": "TrakingOreder\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-27T04:52:10.249Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "F:\\TrakingOreder\\TrakingOreder\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeDocumentMoniker": "TrakingOreder\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ToolTip": "F:\\TrakingOreder\\TrakingOreder\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeToolTip": "TrakingOreder\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ViewState": "AQIAAFAAAAAAAAAAAAAUwDcAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T04:47:47.86Z",
               "EditorCaption": ""
             }
           ]

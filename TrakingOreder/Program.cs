@@ -8,7 +8,7 @@ var connectionString = builder.Configuration.GetConnectionString("TrakingOrederC
 builder.Services.AddDbContext<TrakingOrederContext>(options => options.UseSqlServer(connectionString));
 
 builder.Services.AddDefaultIdentity<TrakingUser>(options => options.SignIn.RequireConfirmedAccount = false).AddEntityFrameworkStores<TrakingOrederContext>();
-builder.Services.Configure<List<Url>>(builder.Configuration.GetSection("Controllers"));
+
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 

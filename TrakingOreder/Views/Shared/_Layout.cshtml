@@ -1,5 +1,8 @@
-﻿@using Microsoft.Extensions.Options
-@inject IOptions<List<Url>> navItem
+﻿@* @using Microsoft.Extensions.Options
+@inject IOptions<List<Url>> navItem *@
+@{
+    var theme = TrakingOreder.Models.LoadUrlData.urls();
+}
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -37,7 +40,7 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav ml-auto">
-                        @foreach (var i in navItem.Value)
+                        @foreach (var i in theme)
                         {
                             @foreach (var action in i.Actions)
                             {

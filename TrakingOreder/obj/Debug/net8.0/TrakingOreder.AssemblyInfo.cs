@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TrakingOreder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cc86a3e8b522aa0906f60be2cb15a61574d18f3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73065514efeccf107b7096802b915846b00b23f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("TrakingOreder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TrakingOreder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
